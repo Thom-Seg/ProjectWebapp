@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ioIh60w3es8wibwm1DB702fVC4domgFH2TJr+u9TQd99jxg/zCWOQq0GFXwCLKczORLmC3XdQpuFDKSwkEvtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Skikk\\Desktop\\Project Web\\Project\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skikk\\.nuget\\packages\\anglesharp\\0.13.0\\anglesharp.0.13.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\aspnet.security.openid\\5.0.0\\aspnet.security.openid.5.0.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\aspnet.security.openid.steam\\5.0.0\\aspnet.security.openid.steam.5.0.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\microsoft.identitymodel.logging\\6.6.0\\microsoft.identitymodel.logging.6.6.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.6.0\\microsoft.identitymodel.protocols.6.6.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.6.0\\microsoft.identitymodel.tokens.6.6.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512",
+    "C:\\Users\\Skikk\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
